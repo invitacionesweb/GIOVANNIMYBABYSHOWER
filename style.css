@@ -387,7 +387,7 @@ footer img {
 }
 
 .end {
-    background-image: url(./img/fondonombres.png);
+    background-image: url(./figuras/box.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -395,6 +395,7 @@ footer img {
     width: 100%;
     height:auto;
     display: flex;
+    padding: 16px 0;
     justify-content: center;
     
    
